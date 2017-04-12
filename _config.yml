@@ -4,9 +4,9 @@
 
 url: http://shenjinghao.github.io
 title: 景灏的博客
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+subtitle: 生活除了代码，还有诗和远方！
+author: 申景灏
+simple_search: https://www.baidu.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -70,8 +70,8 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_button: true
+#twitter_user:
+#twitter_tweet_button: true
 
 # Google +1
 google_plus_one: false
