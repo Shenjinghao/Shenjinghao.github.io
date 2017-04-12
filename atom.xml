@@ -4,7 +4,7 @@
   <title><![CDATA[景灏的博客]]></title>
   <link href="http://shenjinghao.github.io/atom.xml" rel="self"/>
   <link href="http://shenjinghao.github.io/"/>
-  <updated>2017-04-12T17:47:46+08:00</updated>
+  <updated>2017-04-12T18:22:38+08:00</updated>
   <id>http://shenjinghao.github.io/</id>
   <author>
     <name><![CDATA[申景灏]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[第一篇测试博客]]></title>
+    <title type="html"><![CDATA[第一篇博客 - 使用 Octopress+GitHub Pages 搭建个人博客]]></title>
     <link href="http://shenjinghao.github.io/blog/2017/04/12/di-%5B%3F%5D-pian-ce-shi-bo-ke/"/>
     <updated>2017-04-12T14:56:02+08:00</updated>
     <id>http://shenjinghao.github.io/blog/2017/04/12/di-[?]-pian-ce-shi-bo-ke</id>
